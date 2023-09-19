@@ -1,2 +1,14 @@
 curl
 zsh
+imagemagick
+ffmpeg
+zip
+unzip
+rar
+unrar
+ripgrep
+asciinema
+tmux
+git
+neovim
+detox
